@@ -1,0 +1,406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link"
+			],
+			[
+				"t",
+				"txtWimageRight"
+			],
+			[
+				"dec",
+				"text-decoration"
+			],
+			[
+				"tRIP",
+				"TripSightingNum"
+			],
+			[
+				"boder",
+				"border-collapse"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"nav-",
+				"nav-toggle-label"
+			],
+			[
+				"nav",
+				"nav-toggle-label"
+			],
+			[
+				"a",
+				"abbr"
+			],
+			[
+				"div",
+				"OrganizationDivision"
+			],
+			[
+				"repor",
+				"reportData"
+			],
+			[
+				"Char",
+				"chartData"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bl",
+				"blanchedalmond"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Live Server: Stop",
+				"Live Server: Stop"
+			],
+			[
+				"Live",
+				"Live Server: Stop"
+			],
+			[
+				"Preferences: Live Server Settings",
+				"Preferences: Live Server Settings"
+			],
+			[
+				"Live Server: Start",
+				"Live Server: Start"
+			],
+			[
+				"Package Control: Add Repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: Add Rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/projects/mySite"
+	],
+	"file_history":
+	[
+		"/C/projects/mySite/mySite/settings.py",
+		"/C/projects/mySite/test.html",
+		"/C/projects/myAddressBk/myAddressBk/settings.py",
+		"/C/projects/myAddressBk/addressBook/templates/addAddress.html",
+		"/C/projects/myAddressBk/addressBook/templates/base.html",
+		"/C/projects/myAddressBk/myAddressBk/urls.py",
+		"/C/projects/myAddressBk/addressBook/urls.py",
+		"/C/projects/myAddressBk/addressBook/views.py",
+		"/C/projects/myAddressBk/.gitignore",
+		"/C/projects/myAddressBk/static/__init__.py",
+		"/C/projects/myAddressBk/Procfile",
+		"/C/projects/myAddressBk/.env",
+		"/C/code/djangoProject/pages/templates/DjangoSettings.html",
+		"/C/code/djangoProject/pages/templates/DjangoCallFnc.html",
+		"/C/code/djangoProject/pages/views.py",
+		"/C/code/djangoProject/pages/templates/base.html",
+		"/C/code/djangoProject/pages/templates/StartDjangoServer.html",
+		"/C/code/djangoProject/pages/urls.py",
+		"/C/code/djangoProject/pages/templates/home.html",
+		"/C/code/djangoProject/mysite/settings.py",
+		"/C/code/djangoProject/pages/templates/about.html",
+		"/C/code/djangoProject/pages/gungala.py",
+		"/C/code/djangoProject/pages/templates/base3.html",
+		"/C/code/djangoProject/mysite/urls.py",
+		"/C/code/dental/dental/website/templates/home.html",
+		"/C/code/dental/dental/website/views.py",
+		"/C/code/dental/dental/website/urls.py",
+		"/C/code/dental/dental/dental/settings.py",
+		"/C/code/dental/dental/website/templates/index.html",
+		"/C/code/dental/dental/dental/urls.py",
+		"/C/code/djangoProject/pages/templates/DjangoSetup.html",
+		"/C/code/dental/dentalProject",
+		"/C/code/djangoDental/manage.py",
+		"/C/code/djangoProject/pages/templates/DjangoAddPages.html",
+		"/C/code/djangoProject/manage.py",
+		"/C/code/djangoProject/static/css/imgModalStyle.css",
+		"/C/code/djangoProject/static/css/style.css",
+		"/C/code/djangoProject/static/css/extraStyle.css",
+		"/C/code/djangoProject/pages/templates/instruct.html",
+		"/C/code/djangoProject/pages/templates/base2.html",
+		"/C/code/djangoProject/pages/templates/css/style.css",
+		"/C/code/djangoProject/pages/templates/instr.html",
+		"/C/code/djangoDental/dental/settings.py",
+		"/C/code/djangoDental/dental/urls.py",
+		"/C/code/djangoProject/pages/templates/contact.html",
+		"/C/code/djangoProject/pages/map.py",
+		"/C/code/djangoProject/mysite/asgi.py",
+		"/C/code/djangoProject/mysite/wsgi.py",
+		"/C/code/djangoProject/mysite/__init__.py",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/mySightings.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/Vessel/CCSSeaTime.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/Vessel/CCSvesselUse.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/css/flex_style.css",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/css/styles.css",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/default.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/CSS/nav_style.css",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/CSS/hotlineNumbers_styles.css",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/hotlineNumbers.html",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/strandedCetaceans.html",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/otherNumbers.html",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/js/main.js",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/finalChallenge/nav_style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/finalChallenge/style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/finalChallenge/index.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/finalChallenge/main.js",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day19/style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day19/index.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/addTrip.asp",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day14/form.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day18/style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day18/index.html",
+		"/C/Users/dougs/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day14/index.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day14/style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day12/style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day12/index.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day8/02-3 - challenge start/style.css",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day9/index.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/css/Popup_styles.css",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/functions.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/sightingImages-process.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/sighting.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/sightingImages.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/addSighting-process_PREP.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/default.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/addSighting-process.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/contact.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/mySightingsWhale_process.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/mySightings_process.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/sightingMaps.asp",
+		"/C/Users/dougs/Desktop/sightingsTest",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/about.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/js/script.js",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/addSighting-processFINAL.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/testAJAXwhales.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/getWhales.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/addCall-process.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/addCall.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/js/bootstrap.js",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/js/npm.js",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/js/script.js",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/logon-process.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/getWhales2.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/testAJAXwhaleSearchBox.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day4/index.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day4/style.css",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/css/getWhales.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/sftp-config.json",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/db-connect.asp",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day2/index.html",
+		"/C/Users/dougs/Desktop/Courses/01_responsiveWeb/day2/style.css",
+		"/C/Users/dougs/Desktop/teslawebpage.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GridLayoutExample/index.html",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GridLayoutExample/style.css",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/db-connect2.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMhumpbacksWeb/userNameChecks.asp",
+		"/C/Users/dougs/Desktop/GOMhumpbacks/GOMwebTest/index.html",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/upload-process.asp",
+		"/C/Users/dougs/Desktop/BindleStuff/GOMhumpbacks/index.html",
+		"/C/Users/dougs/Desktop/MnImages/FTP_Run.bat",
+		"/C/Users/dougs/Desktop/MnImages/FTP_cmd.txt",
+		"/C/Users/dougs/Desktop/MnImages/CMDftp.exe",
+		"/C/Users/dougs/Desktop/BindleStuff/Tools/orderSeason-process.asp",
+		"/C/Users/dougs/Desktop/tesla.htm",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/Info_ReportType.html",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/CSS/InfoReportType-styles.css",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/CSS/addCall-styles.css",
+		"/C/Users/dougs/Desktop/BindleStuff/Hotline/addCall2.asp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 107.2,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 126.400001526
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 74.4
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"default.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
