@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+<h3>Edit Address</h3>
+
+{% if get_address %}
+<form method = 'POST'>
+{% csrf_token %}
+
+  <div class="form-group">
+    <input type="text" class="form-control" id="name" value="{{ get_address.name }}" name="name">
+  </div>
+
+  <div class="form-group">
+    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" value="{{ get_address.email }}" name="email">
+  </div>
+
+  <div class="form-group">
+    <input type="phone" class="form-control" id="phone"  value="{{ get_address.phone }}" name="phone">
+  </div>
+
+  <div class="form-group">
+    <input type="text" class="form-control" id="address"  value="{{ get_address.address }}" name="address">
+  </div>
+
+  <div class="form-group">
+    <input type="text" class="form-control" id="city"  value="{{ get_address.city }}" name="city">
+  </div>
+
+  <div class="form-group">
+    <input type="text" class="form-control" id="stateid"  value="{{ get_address.stateID }}" name="stateID">
+  </div>
+
+    <div class="form-group">
+    <input type="text" class="form-control" id="countryid"  value="{{ get_address.countryID }}" name="countryID">
+  </div>
+
+  <div class="form-group">
+    <input type="text" class="form-control" id="zipcode"  value="{{ get_address.zipcode }}" name="zipcode">
+  </div>
+
+  <div class="form-group">
+    <input type="text" class="form-control" id="age"  value=55 name="age">
+  </div>
+ 
+  <button type="submit" class="btn btn-secondary">Update Address</button>
+</form>
+
+{% endif %}
+
+{% endblock %}
