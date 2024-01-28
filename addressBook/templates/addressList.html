@@ -2,4 +2,24 @@
 
 {% block content %}
 	<h3>This is the list of addresses</h3>
+
+	{% if AllAddresses %}
+		<table>
+		<tr><th>Name</th><th>Email</th><th>Phone</th><th>Address</th><th>City</th><th>State</th><th>Country</th><th>Zip</th><th>Age</th></tr>
+		{% for records in AllAddresses %}
+			<tr>
+				<td>{{ records.name }} </td>
+				<td>{{ records.email }} </td>
+				<td>{{ records.phone }} </td>
+				<td>{{ records.address }} </td>
+				<td>{{ records.city }} </td>
+				<td>{{ records.stateID }} </td>
+				<td>{{ records.countryID }} </td>
+				<td>{{ records.zipcode }} </td>
+				<td>{{ records.age }} </td>
+			</tr>
+		{% endfor %}
+		</table>
+	{% endif %}
+
 {% endblock %}

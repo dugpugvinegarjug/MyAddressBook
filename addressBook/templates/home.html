@@ -1,5 +1,49 @@
 {% extends 'base.html' %}
 
+
 {% block content %}
-	<h3>Home Page</h3>
+
+
+	<h3>My Address Book</h3>
+
+<div class='container'>
+	<div class='row'>
+	{% if AllAddresses %}
+		{% for records in AllAddresses %}
+			<div class="card" style="width: 18rem;" >
+		  		<div class="card-body" style="background: skyblue;">
+		    	<h5 class="card-title">{{ records.name }}</h5>
+		    			<table>
+		    			<tr class= "card-text BoldUnderlined"><td colspan=2 style='text-align: center;'>Address</td></tr>
+		    			<tr><td class='fieldHead'>Street:</td><td>{{ records.address }} </td></tr>
+						<tr><td class='fieldHead'>City:</td><td>{{ records.city }} </td></tr>
+						<tr><td class='fieldHead'>State:</td><td>{{ records.stateID }} </td></tr>
+						<tr><td class='fieldHead'>Country</td><td>{{ records.countryID }} </td></tr>
+						<tr><td class='fieldHead'>Zip/Postal:</td><td>{{ records.zipcode }} </td></tr>
+						<tr><td colspan=2 ></td></tr>
+						<tr><td colspan=2 >Phone: {{ records.phone }}</td></tr>
+						<tr><td colspan=2 >Email: {{ records.email }} </td></tr>
+						<tr><td colspan=2 >{{ records.name }} is {{ records.age }} years old </td></tr>
+						</table>
+		    	
+		    			<table>
+		    				<tr>
+		    					<td><a href="{% url 'edit' records.id %}" class="btn btn-primary">Edit</a></td>
+		    					<td></td>
+		    					<td>
+		    						<form method='POST'  action='{% url "delete" records.id %}'>
+		    							{% csrf_token %}
+		    							<input type="hidden" value="{{ records.id }}" name="id">
+		    							<button type="submit" class="btn btn-danger">Delete</button>
+		    						</form>
+		    			</tr>
+		    			</table>
+		  		</div>
+			</div>
+		 <br>
+		{% endfor %}
+	{% endif %}
+	</div>
+</div>
+
 {% endblock %}
